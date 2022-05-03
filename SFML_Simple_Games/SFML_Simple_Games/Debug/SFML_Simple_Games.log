@@ -1,0 +1,3 @@
+﻿  Player.cpp
+X:\MSVS\SFML_Simple_Games\SFML_Simple_Games\Player.cpp(62): warning C4172: 返回局部变量或临时变量的地址: anim_switch
+  SFML_Simple_Games.vcxproj -> X:\MSVS\SFML_Simple_Games\Debug\SFML_Simple_Games.exe

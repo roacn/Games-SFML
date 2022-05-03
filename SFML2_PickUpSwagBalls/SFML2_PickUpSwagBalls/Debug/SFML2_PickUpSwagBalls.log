@@ -1,0 +1,3 @@
+﻿  Game.cpp
+X:\MSVS\SFML2_PickUpSwagBalls\SFML2_PickUpSwagBalls\Game.cpp(63): warning C4172: 返回局部变量或临时变量的地址
+  SFML2_PickUpSwagBalls.vcxproj -> X:\MSVS\SFML2_PickUpSwagBalls\Debug\SFML2_PickUpSwagBalls.exe

@@ -1,0 +1,12 @@
+﻿  Bullet.cpp
+  Enemy.cpp
+  Game.cpp
+X:\MSVS\SFML3_SwaglordsOfSpace\SFML3_SwaglordsOfSpace\Game.cpp(266,70): warning C4244: “参数”: 从“const float”转换到“const int”，可能丢失数据
+  main.cpp
+  Player.cpp
+X:\MSVS\SFML3_SwaglordsOfSpace\SFML3_SwaglordsOfSpace\Player.cpp(76,16): warning C4244: “=”: 从“const int”转换到“float”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 682 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SFML3_SwaglordsOfSpace.vcxproj -> X:\MSVS\SFML3_SwaglordsOfSpace\Release\SFML3_SwaglordsOfSpace.exe
